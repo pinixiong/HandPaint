@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HandPaint</string>
+    <string name="btn0">过去</string>
+    <string name="btn1">橡皮</string>
+    <string name="btn2">清空</string>
+    <string name="btn3">撤销</string>
+    <string name="btn4">恢复</string>
+    <string name="btn5">保存</string>
+</resources>
